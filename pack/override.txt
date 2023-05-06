@@ -1,0 +1,3 @@
+nc_igneous:amalgam * nc_igneous_amalgam
+#Fluid bug: nc_terrain:water_gray_source * nc_terrain_water_gray
+#Fluid bug: nc_terrain:water_gray_flowing * nc_terrain_water_gray_flow
