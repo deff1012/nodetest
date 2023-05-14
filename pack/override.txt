@@ -1,3 +1,27 @@
 nc_igneous:amalgam * nc_igneous_amalgam
+
 #Fluid bug: nc_terrain:water_gray_source * nc_terrain_water_gray
 #Fluid bug: nc_terrain:water_gray_flowing * nc_terrain_water_gray_flow
+
+#Sponges
+nc_sponge:sponge * nc_sponge
+nc_sponge:sponge_wet * nc_sponge_wet
+
+#Lode Temp Tools
+
+nc_lode:tool_pick_tempered inventory nt_temp_pick
+nc_lode:tool_mattock_tempered inventory nt_temp_mattock
+nc_lode:tool_spade_tempered inventory nt_temp_spade
+nc_lode:tool_hatchet_tempered inventory nt_temp_hatchet
+
+#Lux Temp Tools
+nc_lux:tool_pick_tempered inventory nt_templux_pick
+nc_lux:tool_mattock_tempered inventory nt_templux_mattock
+nc_lux:tool_spade_tempered inventory nt_templux_spade
+nc_lux:tool_hatchet_tempered inventory nt_templux_hatchet
+
+#Lux Temp Boost Tools
+nc_lux:tool_pick_tempered_boost inventory nt_templuxboost_pick
+nc_lux:tool_mattock_tempered_boost inventory nt_templuxboost_mattock
+nc_lux:tool_spade_tempered_boost inventory nt_templuxboost_spade
+nc_lux:tool_hatchet_tempered_boost inventory nt_templuxboost_hatchet
