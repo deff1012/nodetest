@@ -25,3 +25,7 @@ nc_lux:tool_pick_tempered_boost inventory nt_templuxboost_pick
 nc_lux:tool_mattock_tempered_boost inventory nt_templuxboost_mattock
 nc_lux:tool_spade_tempered_boost inventory nt_templuxboost_spade
 nc_lux:tool_hatchet_tempered_boost inventory nt_templuxboost_hatchet
+
+#Cobble
+nc_terrain:cobble * nt_cobble_def
+nc_terrain:cobble_loose * nt_cobble_def^(nc_api_loose.png)
